@@ -31,3 +31,7 @@ Flexbox, webpage layout, and responsive design.
 
 This is a student/educational project and is not
 affiliated with or endorsed by Amazon.
+
+## Author
+
+**Aman Alam**
